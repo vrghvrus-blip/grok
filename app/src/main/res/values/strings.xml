@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppForge</string>
+    <string name="tagline">Idea, Prompt &amp; Architecture Engine</string>
+    <string name="tab_ideas">Idea Lab</string>
+    <string name="tab_cost">Frugal Stack</string>
+    <string name="tab_arch">Architecture</string>
+    <string name="tab_snippets">Codebase</string>
+    <string name="tab_vault">Vault</string>
+    <string name="btn_generate">Generate Blueprint</string>
+    <string name="btn_guess_idea">Surprise / Guess Idea</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_save">Save to Vault</string>
+    <string name="lbl_cost_savings">Cost &amp; Workload Savings</string>
+    <string name="lbl_architectural_spec">Architectural Specification</string>
+</resources>
